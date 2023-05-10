@@ -124,6 +124,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Screens\1.png" />
+    <Content Include="Screens\2.png" />
+    <Content Include="Screens\3.png" />
+    <Content Include="Screens\4.png" />
+    <Content Include="Screens\5.png" />
     <Content Include="Tatice-Cristal-Intense-Information.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
